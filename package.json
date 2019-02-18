@@ -1,0 +1,15 @@
+{
+  "name": "geocoding",
+  "version": "1.0.0",
+  "description": "A geocoding script with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marco Godinez <iron-rocks@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "node-geocoder": "^3.22.0"
+  }
+}
